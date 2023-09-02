@@ -1,6 +1,6 @@
 spring:
   data:
     mongodb:
-      uri: mongodb://username:password@localhost:27017/productservice
+      uri: mongodb://admin:password@localhost:27017/productservice
 test:
   name: yasmino
